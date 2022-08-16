@@ -1,0 +1,366 @@
+[
+    {
+        "IdProv": "01",
+        "Provincia": "Alava",
+        "ComunidadAutonoma": "14",
+        "SelProv": "0",
+        "SelAntProv": "1"
+    },
+    {
+        "IdProv": "02",
+        "Provincia": "Albacete",
+        "ComunidadAutonoma": "07",
+        "SelProv": "0",
+        "SelAntProv": "1"
+    },
+    {
+        "IdProv": "03",
+        "Provincia": "Alicante",
+        "ComunidadAutonoma": "17",
+        "SelProv": "0",
+        "SelAntProv": "1"
+    },
+    {
+        "IdProv": "04",
+        "Provincia": "Almería",
+        "ComunidadAutonoma": "01",
+        "SelProv": "0",
+        "SelAntProv": "1"
+    },
+    {
+        "IdProv": "05",
+        "Provincia": "Avila",
+        "ComunidadAutonoma": "08",
+        "SelProv": "0",
+        "SelAntProv": "1"
+    },
+    {
+        "IdProv": "06",
+        "Provincia": "Badajoz",
+        "ComunidadAutonoma": "10",
+        "SelProv": "0",
+        "SelAntProv": "1"
+    },
+    {
+        "IdProv": "07",
+        "Provincia": "Balears (Illes)",
+        "ComunidadAutonoma": "04",
+        "SelProv": "0",
+        "SelAntProv": "1"
+    },
+    {
+        "IdProv": "08",
+        "Provincia": "Barcelona",
+        "ComunidadAutonoma": "09",
+        "SelProv": "0",
+        "SelAntProv": "1"
+    },
+    {
+        "IdProv": "09",
+        "Provincia": "Burgos",
+        "ComunidadAutonoma": "08",
+        "SelProv": "0",
+        "SelAntProv": "1"
+    },
+    {
+        "IdProv": "10",
+        "Provincia": "Cáceres",
+        "ComunidadAutonoma": "10",
+        "SelProv": "0",
+        "SelAntProv": "1"
+    },
+    {
+        "IdProv": "11",
+        "Provincia": "Cádiz",
+        "ComunidadAutonoma": "01",
+        "SelProv": "0",
+        "SelAntProv": "1"
+    },
+    {
+        "IdProv": "12",
+        "Provincia": "Castellón",
+        "ComunidadAutonoma": "17",
+        "SelProv": "0",
+        "SelAntProv": "1"
+    },
+    {
+        "IdProv": "13",
+        "Provincia": "Ciudad Real",
+        "ComunidadAutonoma": "07",
+        "SelProv": "0",
+        "SelAntProv": "1"
+    },
+    {
+        "IdProv": "14",
+        "Provincia": "Córdoba",
+        "ComunidadAutonoma": "01",
+        "SelProv": "0",
+        "SelAntProv": "1"
+    },
+    {
+        "IdProv": "15",
+        "Provincia": "Coruña (A)",
+        "ComunidadAutonoma": "11",
+        "SelProv": "0",
+        "SelAntProv": "1"
+    },
+    {
+        "IdProv": "16",
+        "Provincia": "Cuenca",
+        "ComunidadAutonoma": "07",
+        "SelProv": "0",
+        "SelAntProv": "1"
+    },
+    {
+        "IdProv": "17",
+        "Provincia": "Girona",
+        "ComunidadAutonoma": "09",
+        "SelProv": "0",
+        "SelAntProv": "1"
+    },
+    {
+        "IdProv": "18",
+        "Provincia": "Granada",
+        "ComunidadAutonoma": "01",
+        "SelProv": "0",
+        "SelAntProv": "1"
+    },
+    {
+        "IdProv": "19",
+        "Provincia": "Guadalajara",
+        "ComunidadAutonoma": "07",
+        "SelProv": "0",
+        "SelAntProv": "1"
+    },
+    {
+        "IdProv": "20",
+        "Provincia": "Gipuzkoa",
+        "ComunidadAutonoma": "14",
+        "SelProv": "0",
+        "SelAntProv": "1"
+    },
+    {
+        "IdProv": "21",
+        "Provincia": "Huelva",
+        "ComunidadAutonoma": "01",
+        "SelProv": "0",
+        "SelAntProv": "1"
+    },
+    {
+        "IdProv": "22",
+        "Provincia": "Huesca",
+        "ComunidadAutonoma": "02",
+        "SelProv": "0",
+        "SelAntProv": "1"
+    },
+    {
+        "IdProv": "23",
+        "Provincia": "Jaén",
+        "ComunidadAutonoma": "01",
+        "SelProv": "0",
+        "SelAntProv": "1"
+    },
+    {
+        "IdProv": "24",
+        "Provincia": "León",
+        "ComunidadAutonoma": "08",
+        "SelProv": "0",
+        "SelAntProv": "1"
+    },
+    {
+        "IdProv": "25",
+        "Provincia": "Lleida",
+        "ComunidadAutonoma": "09",
+        "SelProv": "0",
+        "SelAntProv": "1"
+    },
+    {
+        "IdProv": "26",
+        "Provincia": "Rioja (La)",
+        "ComunidadAutonoma": "16",
+        "SelProv": "0",
+        "SelAntProv": "1"
+    },
+    {
+        "IdProv": "27",
+        "Provincia": "Lugo",
+        "ComunidadAutonoma": "11",
+        "SelProv": "0",
+        "SelAntProv": "1"
+    },
+    {
+        "IdProv": "28",
+        "Provincia": "Madrid",
+        "ComunidadAutonoma": "12",
+        "SelProv": "0",
+        "SelAntProv": "1"
+    },
+    {
+        "IdProv": "29",
+        "Provincia": "Málaga",
+        "ComunidadAutonoma": "01",
+        "SelProv": "0",
+        "SelAntProv": "1"
+    },
+    {
+        "IdProv": "30",
+        "Provincia": "Murcia",
+        "ComunidadAutonoma": "15",
+        "SelProv": "0",
+        "SelAntProv": "1"
+    },
+    {
+        "IdProv": "31",
+        "Provincia": "Navarra",
+        "ComunidadAutonoma": "13",
+        "SelProv": "0",
+        "SelAntProv": "1"
+    },
+    {
+        "IdProv": "32",
+        "Provincia": "Ourense",
+        "ComunidadAutonoma": "11",
+        "SelProv": "0",
+        "SelAntProv": "1"
+    },
+    {
+        "IdProv": "33",
+        "Provincia": "Asturias",
+        "ComunidadAutonoma": "03",
+        "SelProv": "0",
+        "SelAntProv": "1"
+    },
+    {
+        "IdProv": "34",
+        "Provincia": "Palencia",
+        "ComunidadAutonoma": "08",
+        "SelProv": "0",
+        "SelAntProv": "1"
+    },
+    {
+        "IdProv": "35",
+        "Provincia": "Palmas (Las)",
+        "ComunidadAutonoma": "05",
+        "SelProv": "0",
+        "SelAntProv": "1"
+    },
+    {
+        "IdProv": "36",
+        "Provincia": "Pontevedra",
+        "ComunidadAutonoma": "11",
+        "SelProv": "0",
+        "SelAntProv": "1"
+    },
+    {
+        "IdProv": "37",
+        "Provincia": "Salamanca",
+        "ComunidadAutonoma": "08",
+        "SelProv": "0",
+        "SelAntProv": "1"
+    },
+    {
+        "IdProv": "38",
+        "Provincia": "Sta Cruz Tenerife",
+        "ComunidadAutonoma": "05",
+        "SelProv": "0",
+        "SelAntProv": "1"
+    },
+    {
+        "IdProv": "39",
+        "Provincia": "Cantabria",
+        "ComunidadAutonoma": "06",
+        "SelProv": "0",
+        "SelAntProv": "1"
+    },
+    {
+        "IdProv": "40",
+        "Provincia": "Segovia",
+        "ComunidadAutonoma": "08",
+        "SelProv": "0",
+        "SelAntProv": "1"
+    },
+    {
+        "IdProv": "41",
+        "Provincia": "Sevilla",
+        "ComunidadAutonoma": "01",
+        "SelProv": "0",
+        "SelAntProv": "1"
+    },
+    {
+        "IdProv": "42",
+        "Provincia": "Soria",
+        "ComunidadAutonoma": "08",
+        "SelProv": "0",
+        "SelAntProv": "1"
+    },
+    {
+        "IdProv": "43",
+        "Provincia": "Tarragona",
+        "ComunidadAutonoma": "09",
+        "SelProv": "0",
+        "SelAntProv": "1"
+    },
+    {
+        "IdProv": "44",
+        "Provincia": "Teruel",
+        "ComunidadAutonoma": "02",
+        "SelProv": "0",
+        "SelAntProv": "1"
+    },
+    {
+        "IdProv": "45",
+        "Provincia": "Toledo",
+        "ComunidadAutonoma": "07",
+        "SelProv": "0",
+        "SelAntProv": "1"
+    },
+    {
+        "IdProv": "46",
+        "Provincia": "Valencia",
+        "ComunidadAutonoma": "17",
+        "SelProv": "0",
+        "SelAntProv": "1"
+    },
+    {
+        "IdProv": "47",
+        "Provincia": "Valladolid",
+        "ComunidadAutonoma": "08",
+        "SelProv": "0",
+        "SelAntProv": "1"
+    },
+    {
+        "IdProv": "48",
+        "Provincia": "Bizkaia",
+        "ComunidadAutonoma": "14",
+        "SelProv": "0",
+        "SelAntProv": "1"
+    },
+    {
+        "IdProv": "49",
+        "Provincia": "Zamora",
+        "ComunidadAutonoma": "08",
+        "SelProv": "0",
+        "SelAntProv": "1"
+    },
+    {
+        "IdProv": "50",
+        "Provincia": "Zaragoza",
+        "ComunidadAutonoma": "02",
+        "SelProv": "0",
+        "SelAntProv": "1"
+    },
+    {
+        "IdProv": "51",
+        "Provincia": "Ceuta",
+        "ComunidadAutonoma": "18",
+        "SelProv": "0",
+        "SelAntProv": "1"
+    },
+    {
+        "IdProv": "52",
+        "Provincia": "Melilla",
+        "ComunidadAutonoma": "19",
+        "SelProv": "0",
+        "SelAntProv": "1"
+    }
+]

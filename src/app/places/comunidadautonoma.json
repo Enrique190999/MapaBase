@@ -1,0 +1,122 @@
+[
+    {
+        "IdComunidadAutonoma": "00",
+        "ComunidadAutonoma": "",
+        "SelAntCCAA": "0",
+        "SelCCAA": "0"
+    },
+    {
+        "IdComunidadAutonoma": "01",
+        "ComunidadAutonoma": "Andalucía",
+        "SelAntCCAA": "1",
+        "SelCCAA": "0"
+    },
+    {
+        "IdComunidadAutonoma": "02",
+        "ComunidadAutonoma": "Aragón",
+        "SelAntCCAA": "1",
+        "SelCCAA": "0"
+    },
+    {
+        "IdComunidadAutonoma": "03",
+        "ComunidadAutonoma": "Asturias",
+        "SelAntCCAA": "1",
+        "SelCCAA": "0"
+    },
+    {
+        "IdComunidadAutonoma": "04",
+        "ComunidadAutonoma": "Baleares",
+        "SelAntCCAA": "1",
+        "SelCCAA": "0"
+    },
+    {
+        "IdComunidadAutonoma": "05",
+        "ComunidadAutonoma": "Canarias",
+        "SelAntCCAA": "1",
+        "SelCCAA": "0"
+    },
+    {
+        "IdComunidadAutonoma": "06",
+        "ComunidadAutonoma": "Cantabria",
+        "SelAntCCAA": "1",
+        "SelCCAA": "0"
+    },
+    {
+        "IdComunidadAutonoma": "07",
+        "ComunidadAutonoma": "Cast. La Mancha",
+        "SelAntCCAA": "1",
+        "SelCCAA": "0"
+    },
+    {
+        "IdComunidadAutonoma": "08",
+        "ComunidadAutonoma": "Cast. León",
+        "SelAntCCAA": "1",
+        "SelCCAA": "0"
+    },
+    {
+        "IdComunidadAutonoma": "09",
+        "ComunidadAutonoma": "Cataluña",
+        "SelAntCCAA": "1",
+        "SelCCAA": "0"
+    },
+    {
+        "IdComunidadAutonoma": "10",
+        "ComunidadAutonoma": "Extremadura",
+        "SelAntCCAA": "1",
+        "SelCCAA": "0"
+    },
+    {
+        "IdComunidadAutonoma": "11",
+        "ComunidadAutonoma": "Galicia",
+        "SelAntCCAA": "1",
+        "SelCCAA": "0"
+    },
+    {
+        "IdComunidadAutonoma": "12",
+        "ComunidadAutonoma": "Madrid",
+        "SelAntCCAA": "1",
+        "SelCCAA": "0"
+    },
+    {
+        "IdComunidadAutonoma": "13",
+        "ComunidadAutonoma": "Navarra",
+        "SelAntCCAA": "1",
+        "SelCCAA": "0"
+    },
+    {
+        "IdComunidadAutonoma": "14",
+        "ComunidadAutonoma": "País Vasco",
+        "SelAntCCAA": "1",
+        "SelCCAA": "0"
+    },
+    {
+        "IdComunidadAutonoma": "15",
+        "ComunidadAutonoma": "Región de Murcia",
+        "SelAntCCAA": "1",
+        "SelCCAA": "0"
+    },
+    {
+        "IdComunidadAutonoma": "16",
+        "ComunidadAutonoma": "La Rioja",
+        "SelAntCCAA": "1",
+        "SelCCAA": "0"
+    },
+    {
+        "IdComunidadAutonoma": "17",
+        "ComunidadAutonoma": "C. Valenciana",
+        "SelAntCCAA": "1",
+        "SelCCAA": "0"
+    },
+    {
+        "IdComunidadAutonoma": "18",
+        "ComunidadAutonoma": "Ceuta",
+        "SelAntCCAA": "1",
+        "SelCCAA": "0"
+    },
+    {
+        "IdComunidadAutonoma": "19",
+        "ComunidadAutonoma": "Melilla",
+        "SelAntCCAA": "1",
+        "SelCCAA": "0"
+    }
+]

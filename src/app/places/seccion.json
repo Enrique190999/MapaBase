@@ -1,0 +1,20 @@
+[
+    {
+        "IdProMunDisSecc": "0100101001",
+        "IdProMunDis": "0100101",
+        "Seccion": "001",
+        "ProMunDisSecc": "0100101001"
+    },
+    {
+        "IdProMunDisSecc": "0100101002",
+        "IdProMunDis": "0100101",
+        "Seccion": "002",
+        "ProMunDisSecc": "0100101002"
+    },
+    {
+        "IdProMunDisSecc": "0100201001",
+        "IdProMunDis": "0100201",
+        "Seccion": "001",
+        "ProMunDisSecc": "0100201001"
+    }
+]

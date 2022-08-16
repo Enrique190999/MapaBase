@@ -1,5 +1,5 @@
 {
-  "name": "mapa-base",
+  "name": "mapabase",
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
@@ -15,12 +15,21 @@
     "@angular/compiler": "^14.1.0",
     "@angular/core": "^14.1.0",
     "@angular/forms": "^14.1.0",
+    "@angular/localize": "^14.1.0",
     "@angular/platform-browser": "^14.1.0",
     "@angular/platform-browser-dynamic": "^14.1.0",
     "@angular/router": "^14.1.0",
+    "@auth0/auth0-spa-js": "^1.22.2",
+    "@ng-bootstrap/ng-bootstrap": "^13.0.0",
+    "@popperjs/core": "^2.11.6",
+    "@types/mapbox-gl": "^2.7.5",
+    "bootstrap": "^5.2.0",
+    "jquery": "^3.6.0",
+    "mapbox-gl": "^2.9.2",
+    "popper.js": "^1.16.1",
     "rxjs": "~7.5.0",
-    "tslib": "^2.3.0",
-    "zone.js": "~0.11.4"
+    "tslib": "^2.4.0",
+    "zone.js": "^0.11.8"
   },
   "devDependencies": {
     "@angular-devkit/build-angular": "^14.1.0",
@@ -34,5 +43,17 @@
     "karma-jasmine": "~5.1.0",
     "karma-jasmine-html-reporter": "~2.0.0",
     "typescript": "~4.7.2"
-  }
+  },
+  "description": "This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.0.",
+  "main": "karma.conf.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Enrique190999/MAPABASE-NG-14.git"
+  },
+  "author": "Edmundo Blasco",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Enrique190999/MAPABASE-NG-14/issues"
+  },
+  "homepage": "https://github.com/Enrique190999/MAPABASE-NG-14#readme"
 }

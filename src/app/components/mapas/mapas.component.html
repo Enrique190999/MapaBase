@@ -1,0 +1,19 @@
+<h1>Menú de análisis</h1>
+<hr>
+
+<div class="card-columns">
+
+    <div class="card animated fadeIn" *ngFor="let mapa of mapas; let i = index">
+        <img [src]="mapa.img" class="card-img-top" [alt]="mapa.nombre">
+        <div class="card-body">
+          <h5 class="card-title">{{mapa.nombre}}</h5>
+        <p class="card-text">{{ mapa.descripcion}}</p>
+          <p class="card-text"><small class="text-muted">{{mapa.tipo}}</small></p>
+   
+        <button (click)="verMapa(mapa.idmapa)"
+        type="button" class="btn btn-outline-primary btn-block"> Vamos... </button>
+   <!-- <a [routerLink]="['/mapa',i]" class="btn btn-outline-primary btn-block">Ver más Link</a> -->
+   
+        </div>
+      </div>
+</div>

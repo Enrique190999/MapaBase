@@ -1,0 +1,1592 @@
+[
+    {
+        "IdProvJez": "01002",
+        "MunicipioDistrito": "AMURRIO",
+        "IdProvincia": "01"
+    },
+    {
+        "IdProvJez": "01059",
+        "MunicipioDistrito": "VITORIA",
+        "IdProvincia": "01"
+    },
+    {
+        "IdProvJez": "02003",
+        "MunicipioDistrito": "ALBACETE",
+        "IdProvincia": "02"
+    },
+    {
+        "IdProvJez": "02008",
+        "MunicipioDistrito": "ALCARAZ",
+        "IdProvincia": "02"
+    },
+    {
+        "IdProvJez": "02009",
+        "MunicipioDistrito": "ALMANSA",
+        "IdProvincia": "02"
+    },
+    {
+        "IdProvJez": "02037",
+        "MunicipioDistrito": "HELLIN",
+        "IdProvincia": "02"
+    },
+    {
+        "IdProvJez": "02069",
+        "MunicipioDistrito": "RODA (LA)",
+        "IdProvincia": "02"
+    },
+    {
+        "IdProvJez": "03009",
+        "MunicipioDistrito": "ALCOY\/ALCOI",
+        "IdProvincia": "03"
+    },
+    {
+        "IdProvJez": "03014",
+        "MunicipioDistrito": "ALICANTE\/ALACANT",
+        "IdProvincia": "03"
+    },
+    {
+        "IdProvJez": "03063",
+        "MunicipioDistrito": "DENIA",
+        "IdProvincia": "03"
+    },
+    {
+        "IdProvJez": "03065",
+        "MunicipioDistrito": "ELCHE\/ELX",
+        "IdProvincia": "03"
+    },
+    {
+        "IdProvJez": "03066",
+        "MunicipioDistrito": "ELDA",
+        "IdProvincia": "03"
+    },
+    {
+        "IdProvJez": "03099",
+        "MunicipioDistrito": "ORIHUELA",
+        "IdProvincia": "03"
+    },
+    {
+        "IdProvJez": "03139",
+        "MunicipioDistrito": "VILLAJOYOSA\/VILA JOIOSA (",
+        "IdProvincia": "03"
+    },
+    {
+        "IdProvJez": "03140",
+        "MunicipioDistrito": "VILLENA",
+        "IdProvincia": "03"
+    },
+    {
+        "IdProvJez": "04013",
+        "MunicipioDistrito": "ALMERIA",
+        "IdProvincia": "04"
+    },
+    {
+        "IdProvJez": "04029",
+        "MunicipioDistrito": "BERJA",
+        "IdProvincia": "04"
+    },
+    {
+        "IdProvJez": "04053",
+        "MunicipioDistrito": "HUERCAL-OVERA",
+        "IdProvincia": "04"
+    },
+    {
+        "IdProvJez": "04100",
+        "MunicipioDistrito": "VERA",
+        "IdProvincia": "04"
+    },
+    {
+        "IdProvJez": "05014",
+        "MunicipioDistrito": "ARENAS DE SAN PEDRO",
+        "IdProvincia": "05"
+    },
+    {
+        "IdProvJez": "05016",
+        "MunicipioDistrito": "AREVALO",
+        "IdProvincia": "05"
+    },
+    {
+        "IdProvJez": "05019",
+        "MunicipioDistrito": "AVILA",
+        "IdProvincia": "05"
+    },
+    {
+        "IdProvJez": "05186",
+        "MunicipioDistrito": "PIEDRAHITA",
+        "IdProvincia": "05"
+    },
+    {
+        "IdProvJez": "06011",
+        "MunicipioDistrito": "ALMENDRALEJO",
+        "IdProvincia": "06"
+    },
+    {
+        "IdProvJez": "06015",
+        "MunicipioDistrito": "BADAJOZ",
+        "IdProvincia": "06"
+    },
+    {
+        "IdProvJez": "06036",
+        "MunicipioDistrito": "CASTUERA",
+        "IdProvincia": "06"
+    },
+    {
+        "IdProvJez": "06044",
+        "MunicipioDistrito": "DON BENITO",
+        "IdProvincia": "06"
+    },
+    {
+        "IdProvJez": "06050",
+        "MunicipioDistrito": "FREGENAL DE LA SIERRA",
+        "IdProvincia": "06"
+    },
+    {
+        "IdProvJez": "06063",
+        "MunicipioDistrito": "HERRERA DEL DUQUE",
+        "IdProvincia": "06"
+    },
+    {
+        "IdProvJez": "06070",
+        "MunicipioDistrito": "JEREZ DE LOS CABALLEROS",
+        "IdProvincia": "06"
+    },
+    {
+        "IdProvJez": "06074",
+        "MunicipioDistrito": "LLERENA",
+        "IdProvincia": "06"
+    },
+    {
+        "IdProvJez": "06083",
+        "MunicipioDistrito": "MERIDA",
+        "IdProvincia": "06"
+    },
+    {
+        "IdProvJez": "06095",
+        "MunicipioDistrito": "OLIVENZA",
+        "IdProvincia": "06"
+    },
+    {
+        "IdProvJez": "06153",
+        "MunicipioDistrito": "VILLANUEVA DE LA SERENA",
+        "IdProvincia": "06"
+    },
+    {
+        "IdProvJez": "06158",
+        "MunicipioDistrito": "ZAFRA",
+        "IdProvincia": "06"
+    },
+    {
+        "IdProvJez": "07026",
+        "MunicipioDistrito": "IBIZA Y FORMENTERA",
+        "IdProvincia": "07"
+    },
+    {
+        "IdProvJez": "07027",
+        "MunicipioDistrito": "INCA",
+        "IdProvincia": "07"
+    },
+    {
+        "IdProvJez": "07032",
+        "MunicipioDistrito": "MENORCA",
+        "IdProvincia": "07"
+    },
+    {
+        "IdProvJez": "07033",
+        "MunicipioDistrito": "MANACOR",
+        "IdProvincia": "07"
+    },
+    {
+        "IdProvJez": "07040",
+        "MunicipioDistrito": "PALMA",
+        "IdProvincia": "07"
+    },
+    {
+        "IdProvJez": "08006",
+        "MunicipioDistrito": "ARENYS DE MAR",
+        "IdProvincia": "08"
+    },
+    {
+        "IdProvJez": "08019",
+        "MunicipioDistrito": "BARCELONA",
+        "IdProvincia": "08"
+    },
+    {
+        "IdProvJez": "08022",
+        "MunicipioDistrito": "BERGA",
+        "IdProvincia": "08"
+    },
+    {
+        "IdProvJez": "08096",
+        "MunicipioDistrito": "GRANOLLERS",
+        "IdProvincia": "08"
+    },
+    {
+        "IdProvJez": "08101",
+        "MunicipioDistrito": "HOSPITALET DE LLOBREGAT (",
+        "IdProvincia": "08"
+    },
+    {
+        "IdProvJez": "08102",
+        "MunicipioDistrito": "IGUALADA",
+        "IdProvincia": "08"
+    },
+    {
+        "IdProvJez": "08113",
+        "MunicipioDistrito": "MANRESA",
+        "IdProvincia": "08"
+    },
+    {
+        "IdProvJez": "08121",
+        "MunicipioDistrito": "MATARO",
+        "IdProvincia": "08"
+    },
+    {
+        "IdProvJez": "08187",
+        "MunicipioDistrito": "SABADELL",
+        "IdProvincia": "08"
+    },
+    {
+        "IdProvJez": "08211",
+        "MunicipioDistrito": "SANT FELIU DE LLOBREGAT",
+        "IdProvincia": "08"
+    },
+    {
+        "IdProvJez": "08279",
+        "MunicipioDistrito": "TERRASSA",
+        "IdProvincia": "08"
+    },
+    {
+        "IdProvJez": "08298",
+        "MunicipioDistrito": "VIC",
+        "IdProvincia": "08"
+    },
+    {
+        "IdProvJez": "08305",
+        "MunicipioDistrito": "VILAFRANCA DEL PENEDES",
+        "IdProvincia": "08"
+    },
+    {
+        "IdProvJez": "08307",
+        "MunicipioDistrito": "VILANOVA I LA GELTRU",
+        "IdProvincia": "08"
+    },
+    {
+        "IdProvJez": "09018",
+        "MunicipioDistrito": "ARANDA DE DUERO",
+        "IdProvincia": "09"
+    },
+    {
+        "IdProvJez": "09056",
+        "MunicipioDistrito": "BRIVIESCA",
+        "IdProvincia": "09"
+    },
+    {
+        "IdProvJez": "09059",
+        "MunicipioDistrito": "BURGOS",
+        "IdProvincia": "09"
+    },
+    {
+        "IdProvJez": "09194",
+        "MunicipioDistrito": "LERMA",
+        "IdProvincia": "09"
+    },
+    {
+        "IdProvJez": "09219",
+        "MunicipioDistrito": "MIRANDA DE EBRO",
+        "IdProvincia": "09"
+    },
+    {
+        "IdProvJez": "09330",
+        "MunicipioDistrito": "SALAS DE LOS INFANTES",
+        "IdProvincia": "09"
+    },
+    {
+        "IdProvJez": "09903",
+        "MunicipioDistrito": "VILLARCAYO DE MERINDAD DE",
+        "IdProvincia": "09"
+    },
+    {
+        "IdProvJez": "10037",
+        "MunicipioDistrito": "CACERES",
+        "IdProvincia": "10"
+    },
+    {
+        "IdProvJez": "10067",
+        "MunicipioDistrito": "CORIA",
+        "IdProvincia": "10"
+    },
+    {
+        "IdProvJez": "10131",
+        "MunicipioDistrito": "NAVALMORAL DE LA MATA",
+        "IdProvincia": "10"
+    },
+    {
+        "IdProvJez": "10148",
+        "MunicipioDistrito": "PLASENCIA",
+        "IdProvincia": "10"
+    },
+    {
+        "IdProvJez": "10195",
+        "MunicipioDistrito": "TRUJILLO",
+        "IdProvincia": "10"
+    },
+    {
+        "IdProvJez": "10203",
+        "MunicipioDistrito": "VALENCIA DE ALCANTARA",
+        "IdProvincia": "10"
+    },
+    {
+        "IdProvJez": "11004",
+        "MunicipioDistrito": "ALGECIRAS",
+        "IdProvincia": "11"
+    },
+    {
+        "IdProvJez": "11006",
+        "MunicipioDistrito": "ARCOS DE LA FRONTERA",
+        "IdProvincia": "11"
+    },
+    {
+        "IdProvJez": "11012",
+        "MunicipioDistrito": "CADIZ",
+        "IdProvincia": "11"
+    },
+    {
+        "IdProvJez": "11015",
+        "MunicipioDistrito": "CHICLANA DE LA FRONTERA",
+        "IdProvincia": "11"
+    },
+    {
+        "IdProvJez": "11020",
+        "MunicipioDistrito": "JEREZ DE LA FRONTERA",
+        "IdProvincia": "11"
+    },
+    {
+        "IdProvJez": "11027",
+        "MunicipioDistrito": "PUERTO DE SANTA MARIA (EL",
+        "IdProvincia": "11"
+    },
+    {
+        "IdProvJez": "11031",
+        "MunicipioDistrito": "SAN FERNANDO",
+        "IdProvincia": "11"
+    },
+    {
+        "IdProvJez": "11032",
+        "MunicipioDistrito": "SANLUCAR DE BARRAMEDA",
+        "IdProvincia": "11"
+    },
+    {
+        "IdProvJez": "11033",
+        "MunicipioDistrito": "SAN ROQUE",
+        "IdProvincia": "11"
+    },
+    {
+        "IdProvJez": "12003",
+        "MunicipioDistrito": "ALBOCASSER",
+        "IdProvincia": "12"
+    },
+    {
+        "IdProvJez": "12040",
+        "MunicipioDistrito": "CASTELLON DE LA PLANA\/CAS",
+        "IdProvincia": "12"
+    },
+    {
+        "IdProvJez": "12072",
+        "MunicipioDistrito": "LUCENA DEL CID",
+        "IdProvincia": "12"
+    },
+    {
+        "IdProvJez": "12080",
+        "MunicipioDistrito": "MORELLA",
+        "IdProvincia": "12"
+    },
+    {
+        "IdProvJez": "12082",
+        "MunicipioDistrito": "NULES",
+        "IdProvincia": "12"
+    },
+    {
+        "IdProvJez": "12100",
+        "MunicipioDistrito": "SANT MATEU",
+        "IdProvincia": "12"
+    },
+    {
+        "IdProvJez": "12104",
+        "MunicipioDistrito": "SEGORBE",
+        "IdProvincia": "12"
+    },
+    {
+        "IdProvJez": "12138",
+        "MunicipioDistrito": "VINAROS",
+        "IdProvincia": "12"
+    },
+    {
+        "IdProvJez": "12140",
+        "MunicipioDistrito": "VIVER",
+        "IdProvincia": "12"
+    },
+    {
+        "IdProvJez": "13005",
+        "MunicipioDistrito": "ALCAZAR DE SAN JUAN",
+        "IdProvincia": "13"
+    },
+    {
+        "IdProvJez": "13034",
+        "MunicipioDistrito": "CIUDAD REAL",
+        "IdProvincia": "13"
+    },
+    {
+        "IdProvJez": "13039",
+        "MunicipioDistrito": "DAIMIEL",
+        "IdProvincia": "13"
+    },
+    {
+        "IdProvJez": "13053",
+        "MunicipioDistrito": "MANZANARES",
+        "IdProvincia": "13"
+    },
+    {
+        "IdProvJez": "13071",
+        "MunicipioDistrito": "PUERTOLLANO",
+        "IdProvincia": "13"
+    },
+    {
+        "IdProvJez": "13087",
+        "MunicipioDistrito": "VALDEPEÑAS",
+        "IdProvincia": "13"
+    },
+    {
+        "IdProvJez": "13093",
+        "MunicipioDistrito": "VILLANUEVA DE LOS INFANTE",
+        "IdProvincia": "13"
+    },
+    {
+        "IdProvJez": "14002",
+        "MunicipioDistrito": "AGUILAR DE LA FRONTERA",
+        "IdProvincia": "14"
+    },
+    {
+        "IdProvJez": "14007",
+        "MunicipioDistrito": "BAENA",
+        "IdProvincia": "14"
+    },
+    {
+        "IdProvJez": "14013",
+        "MunicipioDistrito": "CABRA",
+        "IdProvincia": "14"
+    },
+    {
+        "IdProvJez": "14021",
+        "MunicipioDistrito": "CORDOBA",
+        "IdProvincia": "14"
+    },
+    {
+        "IdProvJez": "14038",
+        "MunicipioDistrito": "LUCENA",
+        "IdProvincia": "14"
+    },
+    {
+        "IdProvJez": "14042",
+        "MunicipioDistrito": "MONTILLA",
+        "IdProvincia": "14"
+    },
+    {
+        "IdProvJez": "14052",
+        "MunicipioDistrito": "PEÑARROYA-PUEBLONUEVO",
+        "IdProvincia": "14"
+    },
+    {
+        "IdProvJez": "14053",
+        "MunicipioDistrito": "POSADAS",
+        "IdProvincia": "14"
+    },
+    {
+        "IdProvJez": "14054",
+        "MunicipioDistrito": "POZOBLANCO",
+        "IdProvincia": "14"
+    },
+    {
+        "IdProvJez": "14055",
+        "MunicipioDistrito": "PRIEGO DE CORDOBA",
+        "IdProvincia": "14"
+    },
+    {
+        "IdProvJez": "15009",
+        "MunicipioDistrito": "BETANZOS",
+        "IdProvincia": "15"
+    },
+    {
+        "IdProvJez": "15019",
+        "MunicipioDistrito": "CARBALLO",
+        "IdProvincia": "15"
+    },
+    {
+        "IdProvJez": "15028",
+        "MunicipioDistrito": "CORCUBION",
+        "IdProvincia": "15"
+    },
+    {
+        "IdProvJez": "15030",
+        "MunicipioDistrito": "CORUÑA (A)",
+        "IdProvincia": "15"
+    },
+    {
+        "IdProvJez": "15036",
+        "MunicipioDistrito": "FERROL",
+        "IdProvincia": "15"
+    },
+    {
+        "IdProvJez": "15057",
+        "MunicipioDistrito": "NOIA",
+        "IdProvincia": "15"
+    },
+    {
+        "IdProvJez": "15078",
+        "MunicipioDistrito": "SANTIAGO DE COMPOSTELA",
+        "IdProvincia": "15"
+    },
+    {
+        "IdProvJez": "16078",
+        "MunicipioDistrito": "CUENCA",
+        "IdProvincia": "16"
+    },
+    {
+        "IdProvJez": "16134",
+        "MunicipioDistrito": "MOTILLA DEL PALANCAR",
+        "IdProvincia": "16"
+    },
+    {
+        "IdProvJez": "16190",
+        "MunicipioDistrito": "SAN CLEMENTE",
+        "IdProvincia": "16"
+    },
+    {
+        "IdProvJez": "16203",
+        "MunicipioDistrito": "TARANCON",
+        "IdProvincia": "16"
+    },
+    {
+        "IdProvJez": "17022",
+        "MunicipioDistrito": "BISBAL D'EMPORDA (LA)",
+        "IdProvincia": "17"
+    },
+    {
+        "IdProvJez": "17066",
+        "MunicipioDistrito": "FIGUERES",
+        "IdProvincia": "17"
+    },
+    {
+        "IdProvJez": "17079",
+        "MunicipioDistrito": "GIRONA",
+        "IdProvincia": "17"
+    },
+    {
+        "IdProvJez": "17114",
+        "MunicipioDistrito": "OLOT",
+        "IdProvincia": "17"
+    },
+    {
+        "IdProvJez": "17141",
+        "MunicipioDistrito": "PUIGCERDA",
+        "IdProvincia": "17"
+    },
+    {
+        "IdProvJez": "17180",
+        "MunicipioDistrito": "SANTA COLOMA DE FARNERS",
+        "IdProvincia": "17"
+    },
+    {
+        "IdProvJez": "18023",
+        "MunicipioDistrito": "BAZA",
+        "IdProvincia": "18"
+    },
+    {
+        "IdProvJez": "18087",
+        "MunicipioDistrito": "GRANADA",
+        "IdProvincia": "18"
+    },
+    {
+        "IdProvJez": "18089",
+        "MunicipioDistrito": "GUADIX",
+        "IdProvincia": "18"
+    },
+    {
+        "IdProvJez": "18122",
+        "MunicipioDistrito": "LOJA",
+        "IdProvincia": "18"
+    },
+    {
+        "IdProvJez": "18140",
+        "MunicipioDistrito": "MOTRIL",
+        "IdProvincia": "18"
+    },
+    {
+        "IdProvJez": "18147",
+        "MunicipioDistrito": "ORGIVA",
+        "IdProvincia": "18"
+    },
+    {
+        "IdProvJez": "19130",
+        "MunicipioDistrito": "GUADALAJARA",
+        "IdProvincia": "19"
+    },
+    {
+        "IdProvJez": "19190",
+        "MunicipioDistrito": "MOLINA DE ARAGON",
+        "IdProvincia": "19"
+    },
+    {
+        "IdProvJez": "19257",
+        "MunicipioDistrito": "SIGÜENZA",
+        "IdProvincia": "19"
+    },
+    {
+        "IdProvJez": "20018",
+        "MunicipioDistrito": "AZPEITIA",
+        "IdProvincia": "20"
+    },
+    {
+        "IdProvJez": "20069",
+        "MunicipioDistrito": "DONOSTIA-SAN SEBASTIAN",
+        "IdProvincia": "20"
+    },
+    {
+        "IdProvJez": "20071",
+        "MunicipioDistrito": "TOLOSA",
+        "IdProvincia": "20"
+    },
+    {
+        "IdProvJez": "20074",
+        "MunicipioDistrito": "BERGARA",
+        "IdProvincia": "20"
+    },
+    {
+        "IdProvJez": "21007",
+        "MunicipioDistrito": "ARACENA",
+        "IdProvincia": "21"
+    },
+    {
+        "IdProvJez": "21010",
+        "MunicipioDistrito": "AYAMONTE",
+        "IdProvincia": "21"
+    },
+    {
+        "IdProvJez": "21041",
+        "MunicipioDistrito": "HUELVA",
+        "IdProvincia": "21"
+    },
+    {
+        "IdProvJez": "21050",
+        "MunicipioDistrito": "MOGUER",
+        "IdProvincia": "21"
+    },
+    {
+        "IdProvJez": "21054",
+        "MunicipioDistrito": "PALMA DEL CONDADO (LA)",
+        "IdProvincia": "21"
+    },
+    {
+        "IdProvJez": "21072",
+        "MunicipioDistrito": "VALVERDE DEL CAMINO",
+        "IdProvincia": "21"
+    },
+    {
+        "IdProvJez": "22048",
+        "MunicipioDistrito": "BARBASTRO",
+        "IdProvincia": "22"
+    },
+    {
+        "IdProvJez": "22066",
+        "MunicipioDistrito": "BOLTAÑA",
+        "IdProvincia": "22"
+    },
+    {
+        "IdProvJez": "22112",
+        "MunicipioDistrito": "FRAGA",
+        "IdProvincia": "22"
+    },
+    {
+        "IdProvJez": "22125",
+        "MunicipioDistrito": "HUESCA",
+        "IdProvincia": "22"
+    },
+    {
+        "IdProvJez": "22130",
+        "MunicipioDistrito": "JACA",
+        "IdProvincia": "22"
+    },
+    {
+        "IdProvJez": "23002",
+        "MunicipioDistrito": "ALCALA LA REAL",
+        "IdProvincia": "23"
+    },
+    {
+        "IdProvJez": "23005",
+        "MunicipioDistrito": "ANDUJAR",
+        "IdProvincia": "23"
+    },
+    {
+        "IdProvJez": "23009",
+        "MunicipioDistrito": "BAEZA",
+        "IdProvincia": "23"
+    },
+    {
+        "IdProvJez": "23024",
+        "MunicipioDistrito": "CAROLINA (LA)",
+        "IdProvincia": "23"
+    },
+    {
+        "IdProvJez": "23028",
+        "MunicipioDistrito": "CAZORLA",
+        "IdProvincia": "23"
+    },
+    {
+        "IdProvJez": "23050",
+        "MunicipioDistrito": "JAEN",
+        "IdProvincia": "23"
+    },
+    {
+        "IdProvJez": "23055",
+        "MunicipioDistrito": "LINARES",
+        "IdProvincia": "23"
+    },
+    {
+        "IdProvJez": "23060",
+        "MunicipioDistrito": "MARTOS",
+        "IdProvincia": "23"
+    },
+    {
+        "IdProvJez": "23092",
+        "MunicipioDistrito": "UBEDA",
+        "IdProvincia": "23"
+    },
+    {
+        "IdProvJez": "23095",
+        "MunicipioDistrito": "VILLACARRILLO",
+        "IdProvincia": "23"
+    },
+    {
+        "IdProvJez": "24008",
+        "MunicipioDistrito": "ASTORGA",
+        "IdProvincia": "24"
+    },
+    {
+        "IdProvJez": "24010",
+        "MunicipioDistrito": "BAÑEZA (LA)",
+        "IdProvincia": "24"
+    },
+    {
+        "IdProvJez": "24056",
+        "MunicipioDistrito": "CISTIERNA",
+        "IdProvincia": "24"
+    },
+    {
+        "IdProvJez": "24089",
+        "MunicipioDistrito": "LEON",
+        "IdProvincia": "24"
+    },
+    {
+        "IdProvJez": "24115",
+        "MunicipioDistrito": "PONFERRADA",
+        "IdProvincia": "24"
+    },
+    {
+        "IdProvJez": "24139",
+        "MunicipioDistrito": "SAHAGUN",
+        "IdProvincia": "24"
+    },
+    {
+        "IdProvJez": "25040",
+        "MunicipioDistrito": "BALAGUER",
+        "IdProvincia": "25"
+    },
+    {
+        "IdProvJez": "25058",
+        "MunicipioDistrito": "BORGES BLANQUES (LES)",
+        "IdProvincia": "25"
+    },
+    {
+        "IdProvJez": "25072",
+        "MunicipioDistrito": "CERVERA",
+        "IdProvincia": "25"
+    },
+    {
+        "IdProvJez": "25120",
+        "MunicipioDistrito": "LLEIDA",
+        "IdProvincia": "25"
+    },
+    {
+        "IdProvJez": "25203",
+        "MunicipioDistrito": "SEU D'URGELL (LA)",
+        "IdProvincia": "25"
+    },
+    {
+        "IdProvJez": "25207",
+        "MunicipioDistrito": "SOLSONA",
+        "IdProvincia": "25"
+    },
+    {
+        "IdProvJez": "25209",
+        "MunicipioDistrito": "SORT",
+        "IdProvincia": "25"
+    },
+    {
+        "IdProvJez": "25234",
+        "MunicipioDistrito": "TREMP",
+        "IdProvincia": "25"
+    },
+    {
+        "IdProvJez": "25243",
+        "MunicipioDistrito": "VIELHA E MIJARAN",
+        "IdProvincia": "25"
+    },
+    {
+        "IdProvJez": "26036",
+        "MunicipioDistrito": "CALAHORRA",
+        "IdProvincia": "26"
+    },
+    {
+        "IdProvJez": "26071",
+        "MunicipioDistrito": "HARO",
+        "IdProvincia": "26"
+    },
+    {
+        "IdProvJez": "26089",
+        "MunicipioDistrito": "LOGROÑO",
+        "IdProvincia": "26"
+    },
+    {
+        "IdProvJez": "27016",
+        "MunicipioDistrito": "CHANTADA",
+        "IdProvincia": "27"
+    },
+    {
+        "IdProvJez": "27018",
+        "MunicipioDistrito": "FONSAGRADA (A)",
+        "IdProvincia": "27"
+    },
+    {
+        "IdProvJez": "27028",
+        "MunicipioDistrito": "LUGO",
+        "IdProvincia": "27"
+    },
+    {
+        "IdProvJez": "27030",
+        "MunicipioDistrito": "MONDOÑEDO",
+        "IdProvincia": "27"
+    },
+    {
+        "IdProvJez": "27031",
+        "MunicipioDistrito": "MONFORTE DE LEMOS",
+        "IdProvincia": "27"
+    },
+    {
+        "IdProvJez": "27065",
+        "MunicipioDistrito": "VILALBA",
+        "IdProvincia": "27"
+    },
+    {
+        "IdProvJez": "28005",
+        "MunicipioDistrito": "ALCALA DE HENARES",
+        "IdProvincia": "28"
+    },
+    {
+        "IdProvJez": "28013",
+        "MunicipioDistrito": "ARANJUEZ",
+        "IdProvincia": "28"
+    },
+    {
+        "IdProvJez": "28045",
+        "MunicipioDistrito": "COLMENAR VIEJO",
+        "IdProvincia": "28"
+    },
+    {
+        "IdProvJez": "28079",
+        "MunicipioDistrito": "MADRID",
+        "IdProvincia": "28"
+    },
+    {
+        "IdProvJez": "28096",
+        "MunicipioDistrito": "NAVALCARNERO",
+        "IdProvincia": "28"
+    },
+    {
+        "IdProvJez": "28131",
+        "MunicipioDistrito": "SAN LORENZO DE EL ESCORIA",
+        "IdProvincia": "28"
+    },
+    {
+        "IdProvJez": "29015",
+        "MunicipioDistrito": "ANTEQUERA",
+        "IdProvincia": "29"
+    },
+    {
+        "IdProvJez": "29067",
+        "MunicipioDistrito": "MALAGA",
+        "IdProvincia": "29"
+    },
+    {
+        "IdProvJez": "29069",
+        "MunicipioDistrito": "MARBELLA",
+        "IdProvincia": "29"
+    },
+    {
+        "IdProvJez": "29084",
+        "MunicipioDistrito": "RONDA",
+        "IdProvincia": "29"
+    },
+    {
+        "IdProvJez": "29094",
+        "MunicipioDistrito": "VELEZ-MALAGA",
+        "IdProvincia": "29"
+    },
+    {
+        "IdProvJez": "30015",
+        "MunicipioDistrito": "CARAVACA DE LA CRUZ",
+        "IdProvincia": "30"
+    },
+    {
+        "IdProvJez": "30016",
+        "MunicipioDistrito": "CARTAGENA",
+        "IdProvincia": "30"
+    },
+    {
+        "IdProvJez": "30019",
+        "MunicipioDistrito": "CIEZA",
+        "IdProvincia": "30"
+    },
+    {
+        "IdProvJez": "30024",
+        "MunicipioDistrito": "LORCA",
+        "IdProvincia": "30"
+    },
+    {
+        "IdProvJez": "30029",
+        "MunicipioDistrito": "MULA",
+        "IdProvincia": "30"
+    },
+    {
+        "IdProvJez": "30030",
+        "MunicipioDistrito": "MURCIA",
+        "IdProvincia": "30"
+    },
+    {
+        "IdProvJez": "30043",
+        "MunicipioDistrito": "YECLA",
+        "IdProvincia": "30"
+    },
+    {
+        "IdProvJez": "31019",
+        "MunicipioDistrito": "AOIZ",
+        "IdProvincia": "31"
+    },
+    {
+        "IdProvJez": "31097",
+        "MunicipioDistrito": "ESTELLA",
+        "IdProvincia": "31"
+    },
+    {
+        "IdProvJez": "31201",
+        "MunicipioDistrito": "PAMPLONA",
+        "IdProvincia": "31"
+    },
+    {
+        "IdProvJez": "31227",
+        "MunicipioDistrito": "TAFALLA",
+        "IdProvincia": "31"
+    },
+    {
+        "IdProvJez": "31232",
+        "MunicipioDistrito": "TUDELA",
+        "IdProvincia": "31"
+    },
+    {
+        "IdProvJez": "32006",
+        "MunicipioDistrito": "BANDE",
+        "IdProvincia": "32"
+    },
+    {
+        "IdProvJez": "32009",
+        "MunicipioDistrito": "BARCO DE VALDEORRAS (O)",
+        "IdProvincia": "32"
+    },
+    {
+        "IdProvJez": "32019",
+        "MunicipioDistrito": "CARBALLIÑO (O)",
+        "IdProvincia": "32"
+    },
+    {
+        "IdProvJez": "32054",
+        "MunicipioDistrito": "OURENSE",
+        "IdProvincia": "32"
+    },
+    {
+        "IdProvJez": "32063",
+        "MunicipioDistrito": "POBRA DE TRIVES (A)",
+        "IdProvincia": "32"
+    },
+    {
+        "IdProvJez": "32069",
+        "MunicipioDistrito": "RIBADAVIA",
+        "IdProvincia": "32"
+    },
+    {
+        "IdProvJez": "32085",
+        "MunicipioDistrito": "VERIN",
+        "IdProvincia": "32"
+    },
+    {
+        "IdProvJez": "33004",
+        "MunicipioDistrito": "AVILES",
+        "IdProvincia": "33"
+    },
+    {
+        "IdProvJez": "33011",
+        "MunicipioDistrito": "CANGAS DEL NARCEA",
+        "IdProvincia": "33"
+    },
+    {
+        "IdProvJez": "33012",
+        "MunicipioDistrito": "CANGAS DE ONIS",
+        "IdProvincia": "33"
+    },
+    {
+        "IdProvJez": "33024",
+        "MunicipioDistrito": "GIJON",
+        "IdProvincia": "33"
+    },
+    {
+        "IdProvJez": "33026",
+        "MunicipioDistrito": "GRADO",
+        "IdProvincia": "33"
+    },
+    {
+        "IdProvJez": "33032",
+        "MunicipioDistrito": "LAVIANA",
+        "IdProvincia": "33"
+    },
+    {
+        "IdProvJez": "33033",
+        "MunicipioDistrito": "LENA",
+        "IdProvincia": "33"
+    },
+    {
+        "IdProvJez": "33034",
+        "MunicipioDistrito": "LUARCA",
+        "IdProvincia": "33"
+    },
+    {
+        "IdProvJez": "33036",
+        "MunicipioDistrito": "LLANES",
+        "IdProvincia": "33"
+    },
+    {
+        "IdProvJez": "33037",
+        "MunicipioDistrito": "MIERES",
+        "IdProvincia": "33"
+    },
+    {
+        "IdProvJez": "33044",
+        "MunicipioDistrito": "OVIEDO",
+        "IdProvincia": "33"
+    },
+    {
+        "IdProvJez": "33066",
+        "MunicipioDistrito": "SIERO",
+        "IdProvincia": "33"
+    },
+    {
+        "IdProvJez": "34017",
+        "MunicipioDistrito": "ASTUDILLO",
+        "IdProvincia": "34"
+    },
+    {
+        "IdProvJez": "34022",
+        "MunicipioDistrito": "BALTANAS",
+        "IdProvincia": "34"
+    },
+    {
+        "IdProvJez": "34047",
+        "MunicipioDistrito": "CARRION DE LOS CONDES",
+        "IdProvincia": "34"
+    },
+    {
+        "IdProvJez": "34056",
+        "MunicipioDistrito": "CERVERA DE PISUERGA",
+        "IdProvincia": "34"
+    },
+    {
+        "IdProvJez": "34072",
+        "MunicipioDistrito": "FRECHILLA",
+        "IdProvincia": "34"
+    },
+    {
+        "IdProvJez": "34120",
+        "MunicipioDistrito": "PALENCIA",
+        "IdProvincia": "34"
+    },
+    {
+        "IdProvJez": "34157",
+        "MunicipioDistrito": "SALDAÑA",
+        "IdProvincia": "34"
+    },
+    {
+        "IdProvJez": "35004",
+        "MunicipioDistrito": "LANZAROTE",
+        "IdProvincia": "35"
+    },
+    {
+        "IdProvJez": "35016",
+        "MunicipioDistrito": "LAS PALMAS DE GRAN CANARI",
+        "IdProvincia": "35"
+    },
+    {
+        "IdProvJez": "35017",
+        "MunicipioDistrito": "FUERTEVENTURA",
+        "IdProvincia": "35"
+    },
+    {
+        "IdProvJez": "35023",
+        "MunicipioDistrito": "SANTA MARIA DE GUIA",
+        "IdProvincia": "35"
+    },
+    {
+        "IdProvJez": "35026",
+        "MunicipioDistrito": "TELDE",
+        "IdProvincia": "35"
+    },
+    {
+        "IdProvJez": "36006",
+        "MunicipioDistrito": "CAMBADOS",
+        "IdProvincia": "36"
+    },
+    {
+        "IdProvJez": "36017",
+        "MunicipioDistrito": "ESTRADA (A)",
+        "IdProvincia": "36"
+    },
+    {
+        "IdProvJez": "36024",
+        "MunicipioDistrito": "LALIN",
+        "IdProvincia": "36"
+    },
+    {
+        "IdProvJez": "36038",
+        "MunicipioDistrito": "PONTEVEDRA",
+        "IdProvincia": "36"
+    },
+    {
+        "IdProvJez": "36042",
+        "MunicipioDistrito": "PONTEAREAS",
+        "IdProvincia": "36"
+    },
+    {
+        "IdProvJez": "36055",
+        "MunicipioDistrito": "TUI",
+        "IdProvincia": "36"
+    },
+    {
+        "IdProvJez": "36057",
+        "MunicipioDistrito": "VIGO",
+        "IdProvincia": "36"
+    },
+    {
+        "IdProvJez": "37046",
+        "MunicipioDistrito": "BEJAR",
+        "IdProvincia": "37"
+    },
+    {
+        "IdProvJez": "37107",
+        "MunicipioDistrito": "CIUDAD RODRIGO",
+        "IdProvincia": "37"
+    },
+    {
+        "IdProvJez": "37246",
+        "MunicipioDistrito": "PEÑARANDA DE BRACAMONTE",
+        "IdProvincia": "37"
+    },
+    {
+        "IdProvJez": "37274",
+        "MunicipioDistrito": "SALAMANCA",
+        "IdProvincia": "37"
+    },
+    {
+        "IdProvJez": "37376",
+        "MunicipioDistrito": "VITIGUDINO",
+        "IdProvincia": "37"
+    },
+    {
+        "IdProvJez": "38017",
+        "MunicipioDistrito": "GRANADILLA",
+        "IdProvincia": "38"
+    },
+    {
+        "IdProvJez": "38022",
+        "MunicipioDistrito": "ICOD DE LOS VINOS",
+        "IdProvincia": "38"
+    },
+    {
+        "IdProvJez": "38023",
+        "MunicipioDistrito": "SAN CRISTOBAL DE LA LAGUN",
+        "IdProvincia": "38"
+    },
+    {
+        "IdProvJez": "38024",
+        "MunicipioDistrito": "LOS LLANOS DE ARIDANE",
+        "IdProvincia": "38"
+    },
+    {
+        "IdProvJez": "38026",
+        "MunicipioDistrito": "LA OROTAVA",
+        "IdProvincia": "38"
+    },
+    {
+        "IdProvJez": "38036",
+        "MunicipioDistrito": "SAN SEBASTIAN DE LA GOMER",
+        "IdProvincia": "38"
+    },
+    {
+        "IdProvJez": "38037",
+        "MunicipioDistrito": "SANTA CRUZ DE LA PALMA",
+        "IdProvincia": "38"
+    },
+    {
+        "IdProvJez": "38038",
+        "MunicipioDistrito": "SANTA CRUZ DE TENERIFE",
+        "IdProvincia": "38"
+    },
+    {
+        "IdProvJez": "38048",
+        "MunicipioDistrito": "VALVERDE",
+        "IdProvincia": "38"
+    },
+    {
+        "IdProvJez": "39035",
+        "MunicipioDistrito": "LAREDO",
+        "IdProvincia": "39"
+    },
+    {
+        "IdProvJez": "39059",
+        "MunicipioDistrito": "REINOSA",
+        "IdProvincia": "39"
+    },
+    {
+        "IdProvJez": "39075",
+        "MunicipioDistrito": "SANTANDER",
+        "IdProvincia": "39"
+    },
+    {
+        "IdProvJez": "39079",
+        "MunicipioDistrito": "SANTOÑA",
+        "IdProvincia": "39"
+    },
+    {
+        "IdProvJez": "39080",
+        "MunicipioDistrito": "SAN VICENTE DE LA BARQUER",
+        "IdProvincia": "39"
+    },
+    {
+        "IdProvJez": "39087",
+        "MunicipioDistrito": "TORRELAVEGA",
+        "IdProvincia": "39"
+    },
+    {
+        "IdProvJez": "40063",
+        "MunicipioDistrito": "CUELLAR",
+        "IdProvincia": "40"
+    },
+    {
+        "IdProvJez": "40170",
+        "MunicipioDistrito": "RIAZA",
+        "IdProvincia": "40"
+    },
+    {
+        "IdProvJez": "40185",
+        "MunicipioDistrito": "SANTA MARIA LA REAL DE NI",
+        "IdProvincia": "40"
+    },
+    {
+        "IdProvJez": "40194",
+        "MunicipioDistrito": "SEGOVIA",
+        "IdProvincia": "40"
+    },
+    {
+        "IdProvJez": "40195",
+        "MunicipioDistrito": "SEPULVEDA",
+        "IdProvincia": "40"
+    },
+    {
+        "IdProvJez": "41024",
+        "MunicipioDistrito": "CARMONA",
+        "IdProvincia": "41"
+    },
+    {
+        "IdProvJez": "41032",
+        "MunicipioDistrito": "CAZALLA DE LA SIERRA",
+        "IdProvincia": "41"
+    },
+    {
+        "IdProvJez": "41039",
+        "MunicipioDistrito": "ECIJA",
+        "IdProvincia": "41"
+    },
+    {
+        "IdProvJez": "41055",
+        "MunicipioDistrito": "LORA DEL RIO",
+        "IdProvincia": "41"
+    },
+    {
+        "IdProvJez": "41060",
+        "MunicipioDistrito": "MARCHENA",
+        "IdProvincia": "41"
+    },
+    {
+        "IdProvJez": "41065",
+        "MunicipioDistrito": "MORON DE LA FRONTERA",
+        "IdProvincia": "41"
+    },
+    {
+        "IdProvJez": "41068",
+        "MunicipioDistrito": "OSUNA",
+        "IdProvincia": "41"
+    },
+    {
+        "IdProvJez": "41091",
+        "MunicipioDistrito": "SEVILLA",
+        "IdProvincia": "41"
+    },
+    {
+        "IdProvJez": "41095",
+        "MunicipioDistrito": "UTRERA",
+        "IdProvincia": "41"
+    },
+    {
+        "IdProvJez": "42020",
+        "MunicipioDistrito": "ALMAZAN",
+        "IdProvincia": "42"
+    },
+    {
+        "IdProvJez": "42043",
+        "MunicipioDistrito": "BURGO DE OSMA-CIUDAD DE O",
+        "IdProvincia": "42"
+    },
+    {
+        "IdProvJez": "42173",
+        "MunicipioDistrito": "SORIA",
+        "IdProvincia": "42"
+    },
+    {
+        "IdProvJez": "43123",
+        "MunicipioDistrito": "REUS",
+        "IdProvincia": "43"
+    },
+    {
+        "IdProvJez": "43148",
+        "MunicipioDistrito": "TARRAGONA",
+        "IdProvincia": "43"
+    },
+    {
+        "IdProvJez": "43155",
+        "MunicipioDistrito": "TORTOSA",
+        "IdProvincia": "43"
+    },
+    {
+        "IdProvJez": "43161",
+        "MunicipioDistrito": "VALLS",
+        "IdProvincia": "43"
+    },
+    {
+        "IdProvJez": "43163",
+        "MunicipioDistrito": "VENDRELL (EL)",
+        "IdProvincia": "43"
+    },
+    {
+        "IdProvJez": "44013",
+        "MunicipioDistrito": "ALCAÑIZ",
+        "IdProvincia": "44"
+    },
+    {
+        "IdProvJez": "44050",
+        "MunicipioDistrito": "CALAMOCHA",
+        "IdProvincia": "44"
+    },
+    {
+        "IdProvJez": "44216",
+        "MunicipioDistrito": "TERUEL",
+        "IdProvincia": "44"
+    },
+    {
+        "IdProvJez": "45121",
+        "MunicipioDistrito": "OCAÑA",
+        "IdProvincia": "45"
+    },
+    {
+        "IdProvJez": "45124",
+        "MunicipioDistrito": "ORGAZ",
+        "IdProvincia": "45"
+    },
+    {
+        "IdProvJez": "45142",
+        "MunicipioDistrito": "QUINTANAR DE LA ORDEN",
+        "IdProvincia": "45"
+    },
+    {
+        "IdProvJez": "45165",
+        "MunicipioDistrito": "TALAVERA DE LA REINA",
+        "IdProvincia": "45"
+    },
+    {
+        "IdProvJez": "45168",
+        "MunicipioDistrito": "TOLEDO",
+        "IdProvincia": "45"
+    },
+    {
+        "IdProvJez": "45173",
+        "MunicipioDistrito": "TORRIJOS",
+        "IdProvincia": "45"
+    },
+    {
+        "IdProvJez": "46017",
+        "MunicipioDistrito": "ALZIRA",
+        "IdProvincia": "46"
+    },
+    {
+        "IdProvJez": "46131",
+        "MunicipioDistrito": "GANDIA",
+        "IdProvincia": "46"
+    },
+    {
+        "IdProvJez": "46145",
+        "MunicipioDistrito": "XATIVA",
+        "IdProvincia": "46"
+    },
+    {
+        "IdProvJez": "46147",
+        "MunicipioDistrito": "LLIRIA",
+        "IdProvincia": "46"
+    },
+    {
+        "IdProvJez": "46184",
+        "MunicipioDistrito": "ONTINYENT",
+        "IdProvincia": "46"
+    },
+    {
+        "IdProvJez": "46213",
+        "MunicipioDistrito": "REQUENA",
+        "IdProvincia": "46"
+    },
+    {
+        "IdProvJez": "46220",
+        "MunicipioDistrito": "SAGUNTO\/SAGUNT",
+        "IdProvincia": "46"
+    },
+    {
+        "IdProvJez": "46235",
+        "MunicipioDistrito": "SUECA",
+        "IdProvincia": "46"
+    },
+    {
+        "IdProvJez": "46250",
+        "MunicipioDistrito": "VALENCIA",
+        "IdProvincia": "46"
+    },
+    {
+        "IdProvJez": "47085",
+        "MunicipioDistrito": "MEDINA DEL CAMPO",
+        "IdProvincia": "47"
+    },
+    {
+        "IdProvJez": "47086",
+        "MunicipioDistrito": "MEDINA DE RIOSECO",
+        "IdProvincia": "47"
+    },
+    {
+        "IdProvJez": "47186",
+        "MunicipioDistrito": "VALLADOLID",
+        "IdProvincia": "47"
+    },
+    {
+        "IdProvJez": "48020",
+        "MunicipioDistrito": "BILBAO",
+        "IdProvincia": "48"
+    },
+    {
+        "IdProvJez": "48027",
+        "MunicipioDistrito": "DURANGO",
+        "IdProvincia": "48"
+    },
+    {
+        "IdProvJez": "48046",
+        "MunicipioDistrito": "GERNIKA",
+        "IdProvincia": "48"
+    },
+    {
+        "IdProvJez": "48090",
+        "MunicipioDistrito": "BALMASEDA",
+        "IdProvincia": "48"
+    },
+    {
+        "IdProvJez": "49021",
+        "MunicipioDistrito": "BENAVENTE",
+        "IdProvincia": "49"
+    },
+    {
+        "IdProvJez": "49166",
+        "MunicipioDistrito": "PUEBLA DE SANABRIA",
+        "IdProvincia": "49"
+    },
+    {
+        "IdProvJez": "49219",
+        "MunicipioDistrito": "TORO",
+        "IdProvincia": "49"
+    },
+    {
+        "IdProvJez": "49250",
+        "MunicipioDistrito": "VILLALPANDO",
+        "IdProvincia": "49"
+    },
+    {
+        "IdProvJez": "49275",
+        "MunicipioDistrito": "ZAMORA",
+        "IdProvincia": "49"
+    },
+    {
+        "IdProvJez": "50067",
+        "MunicipioDistrito": "CALATAYUD",
+        "IdProvincia": "50"
+    },
+    {
+        "IdProvJez": "50074",
+        "MunicipioDistrito": "CASPE",
+        "IdProvincia": "50"
+    },
+    {
+        "IdProvJez": "50094",
+        "MunicipioDistrito": "DAROCA",
+        "IdProvincia": "50"
+    },
+    {
+        "IdProvJez": "50095",
+        "MunicipioDistrito": "EJEA DE LOS CABALLEROS",
+        "IdProvincia": "50"
+    },
+    {
+        "IdProvJez": "50251",
+        "MunicipioDistrito": "TARAZONA",
+        "IdProvincia": "50"
+    },
+    {
+        "IdProvJez": "50297",
+        "MunicipioDistrito": "ZARAGOZA",
+        "IdProvincia": "50"
+    },
+    {
+        "IdProvJez": "51001",
+        "MunicipioDistrito": "CEUTA",
+        "IdProvincia": "51"
+    },
+    {
+        "IdProvJez": "52001",
+        "MunicipioDistrito": "MELILLA",
+        "IdProvincia": "52"
+    }
+]

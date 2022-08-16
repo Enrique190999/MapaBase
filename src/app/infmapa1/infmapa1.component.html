@@ -1,0 +1,80 @@
+<select
+  [(ngModel)]="eventoSeleccionado"
+  class="form-select"
+  aria-label="Default select example"
+  (ngModelChange)="this.eventoActual()"
+>
+  <option value="0" id="0" selected>Seleccione unas elecciones</option>
+  <option *ngFor="let evento of listaEventos" [value]="evento.IdElec">
+    {{ evento.TipoAbrev }} - {{ evento.Anio }}
+  </option>
+</select>
+
+<div
+  class="spinner-border text-primary"
+  role="status"
+  *ngIf="mostrarSpinner"
+></div>
+
+<select
+  *ngIf="listaPartidos.length != 0"
+  [(ngModel)]="ccPartidos"
+  (ngModelChange)="this.mostrarMedias()"
+>
+  <option>Seleccione Partido</option>
+  <option
+    *ngFor="let listapartido of listaPartidos"
+    [value]="listapartido.CodCandiNal"
+  >
+    {{ listapartido.SiglasCandi }} : {{ listapartido.DenoCandi }}
+  </option>
+</select>
+
+<button
+  (click)="getmapa1_1()"
+  class="btn btn-primary"
+  [disabled]="this.idEntrada == undefined"
+>
+  Ok
+</button>
+{{ idEntrada.lugar }}
+{{ idEntrada.ambito }}
+{{ idEntrada.detalle }}
+{{ eventoSeleccionado }}
+
+<h4>{{ resultadoMedias }} %</h4>
+
+<div class="listado_mapas" *ngIf="this.listadoMapa1.length != 0">
+  <!--   <div *ngFor="let listado of listaInformes">
+
+    <p> {{listado.Abstencion}} | {{listado.CensoCere}} | {{listado.CensoIne}} | {{listado.CodComAuto}} </p>
+  <table class="table table-striped table-striped">
+  </div> -->
+
+  <table class="table table-striped table-sm table-hover">
+    <thead>
+      <tr>
+        <th scope="col">ORDEN</th>
+        <th scope="col">COMUNIDAD AUTONOMA</th>
+        <th scope="col">PROVINCIA</th>
+        <th scope="col">MUNCICIPIO</th>
+        <th scope="col">DISTRITO</th>
+        <th scope="col">SECCION</th>
+        <th scope="col">PORCCONS</th>
+        <th scope="col">DIF</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let elemento of listadoMapa1; index as i">
+        <th scope="row">{{ i + 1 }}</th>
+        <td>{{ elemento.ComunidadAutonoma }}</td>
+        <td>{{ elemento.Provincia }}</td>
+        <td>{{ elemento.Municipio }}</td>
+        <td>{{ elemento.Distrito }}</td>
+        <td>{{ elemento.Seccion }}</td>
+        <td>{{ elemento.PorcConst }}</td>
+        <td>{{ elemento.Dif }}</td>
+      </tr>
+    </tbody>
+  </table>
+</div>

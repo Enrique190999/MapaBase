@@ -1,0 +1,269 @@
+<p></p>
+
+<div class="container">
+  <div class="row">
+    <div class="col-sm">
+      <select
+        class="form-select"
+        aria-label="Ambito geográfico"
+        [(ngModel)]="this.seleccAmbito"
+        (ngModelChange)="this.enviarSelecc()"
+      >
+        <option selected value="0">Seleccione ámbito geográfico</option>
+        <option value="7" id="7">Nacional</option>
+        <option value="6" id="6">Comunidad Autónoma</option>
+        <option value="5" id="5">Provincia</option>
+        <option value="4" id="4">JEZ</option>
+        <option value="3" id="3">Municipio</option>
+        <option value="2" id="2">Distrito</option>
+        <option value="1" id="1">Sección</option>
+      </select>
+    </div>
+    <div class="col-sm">
+      <select
+        class="form-select"
+        aria-label="Comunidad Autónoma"
+        id="comunidadAutonomas"
+        *ngIf="this.seleccAmbito == 6"
+        [(ngModel)]="this.seleccIdLugar"
+        (ngModelChange)="this.enviarSelecc()"
+      >
+        <option selected value="" id="0">Seleccione Comunidad Autónoma</option>
+        <option
+          *ngFor="let comunidadAutonoma of com"
+          [id]="comunidadAutonoma.IdComunidadAutonoma"
+          [value]="comunidadAutonoma.IdComunidadAutonoma"
+        >
+          {{ comunidadAutonoma.ComunidadAutonoma }}
+        </option>
+      </select>
+
+      <select
+        class="form-select"
+        id="provincias"
+        *ngIf="this.seleccAmbito == 5"
+        [(ngModel)]="this.seleccIdLugar"
+        (ngModelChange)="this.enviarSelecc()"
+      >
+        <option selected value="0">Seleccione Provincia</option>
+        <option
+          *ngFor="let provincia of prov"
+          [id]="provincia.IdProv"
+          [value]="provincia.IdProv"
+        >
+          {{ provincia.Provincia }}
+        </option>
+      </select>
+      <select
+        class="form-select"
+        id="JEZ"
+        *ngIf="this.seleccAmbito == 4"
+        [(ngModel)]="this.seleccIdLugar"
+        (ngModelChange)="this.enviarSelecc()"
+      >
+        <option selected value="0">Seleccione JEZ</option>
+        <option
+          *ngFor="let JEZ of jez"
+          [id]="JEZ.IdProvJez"
+          [value]="JEZ.IdProvJez"
+        >
+          {{ JEZ.MunicipioDistrito }}
+        </option>
+      </select>
+      <!-- <select
+        id="municipios"
+        [(ngModel)]="this.seleccIdLugar"
+        *ngIf="
+          this.seleccAmbito == 3 ||
+          this.seleccAmbito == 2 ||
+          this.seleccAmbito == 1
+        "
+        [(ngModel)]="this.muniSeleccionada.Municipio"
+        (ngModelChange)="this.enviarSelecc()"
+ 
+      >
+        <option selected value="0">Seleccione Municipio</option>
+        <option
+          *ngFor="let municipio of muni"
+          [id]="municipio.IdMuncicipio"
+          [value]="municipio.IdMuncicipio"
+        >
+          {{ municipio.Municipio }}
+        </option>
+      </select> -->
+      <div>
+        <!--         <label for="exampleDataList" class="form-label">Seleccione municipio</label> -->
+        <input
+          class="form-control"
+          list="datalistOptions"
+          id="municipios"
+          [(ngModel)]="this.seleccIdLugar"
+          (ngModelChange)="this.enviarSelecc()"
+          placeholder="Seleccione municipio..."
+          *ngIf="
+            this.seleccAmbito == 3 ||
+            this.seleccAmbito == 2 ||
+            this.seleccAmbito == 1
+          "
+          #datalistMunicipios
+        />
+        {{ this.seleccIdLugar }}
+        <datalist id="datalistOptions">
+          <option
+            *ngFor="let municipio of muni"
+            [id]="municipio.IdMuncicipio"
+            [value]="municipio.IdMuncicipio"
+          >
+            {{ municipio.Municipio }}
+          </option>
+        </datalist>
+      </div>
+
+      <select
+        class="form-select"
+        id="municdistritos"
+        *ngIf="this.seleccAmbito == 2 || this.seleccAmbito == 1"
+        [(ngModel)]="this.seleccIdLugar"
+        (ngModelChange)="this.enviarSelecc()"
+      >
+        <option selected value="0">Seleccione Distrito</option>
+        <option
+          *ngFor="let munidistrito of dis"
+          [id]="munidistrito.ProvMuniDistr"
+          [value]="munidistrito.ProvMuniDistr"
+        >
+          {{ munidistrito.Distrito }}
+        </option>
+      </select>
+      <select
+        class="form-select"
+        id="secciones"
+        *ngIf="this.seleccAmbito == 1"
+        [(ngModel)]="this.seleccIdLugar"
+        (ngModelChange)="this.enviarSelecc()"
+      >
+        <option selected value="0">Seleccione Sección</option>
+        <option
+          *ngFor="let seccion of secc | slice: 0:10"
+          [id]="seccion.IdProMunDisSecc"
+          [value]="seccion.IdProMunDisSecc"
+        >
+          {{ seccion.Seccion }}
+        </option>
+      </select>
+    </div>
+    <div class="col-sm">
+      <select
+        class="form-select"
+        aria-label="Nivel de detalle"
+        [(ngModel)]="this.seleccDetalle"
+        (ngModelChange)="this.enviarSelecc()"
+      >
+        <option selected value="0">Seleccione nivel de detalle</option>
+        <option value="7" id="7" *ngIf="this.seleccAmbito == 7">
+          Nacional
+        </option>
+        <option
+          value="6"
+          id="6"
+          *ngIf="this.seleccAmbito == 7 || this.seleccAmbito == 6"
+        >
+          Comunidad Autónoma
+        </option>
+        <option
+          value="5"
+          id="5"
+          *ngIf="
+            this.seleccAmbito == 7 ||
+            this.seleccAmbito == 6 ||
+            this.seleccAmbito == 5
+          "
+        >
+          Provincia
+        </option>
+        <option
+          value="4"
+          id="4"
+          *ngIf="
+            this.seleccAmbito == 7 ||
+            this.seleccAmbito == 6 ||
+            this.seleccAmbito == 5 ||
+            this.seleccAmbito == 4
+          "
+        >
+          JEZ
+        </option>
+        <option
+          value="3"
+          id="3"
+          *ngIf="
+            this.seleccAmbito == 7 ||
+            this.seleccAmbito == 6 ||
+            this.seleccAmbito == 5 ||
+            this.seleccAmbito == 4 ||
+            this.seleccAmbito == 3
+          "
+        >
+          Municipio
+        </option>
+        <option
+          value="2"
+          id="2"
+          *ngIf="
+            this.seleccAmbito == 7 ||
+            this.seleccAmbito == 6 ||
+            this.seleccAmbito == 5 ||
+            this.seleccAmbito == 4 ||
+            this.seleccAmbito == 3 ||
+            this.seleccAmbito == 2
+          "
+        >
+          Distrito
+        </option>
+        <option
+          value="1"
+          id="1"
+          *ngIf="
+            this.seleccAmbito == 7 ||
+            this.seleccAmbito == 6 ||
+            this.seleccAmbito == 5 ||
+            this.seleccAmbito == 4 ||
+            this.seleccAmbito == 3 ||
+            this.seleccAmbito == 2 ||
+            this.seleccAmbito == 1
+          "
+        >
+          Sección
+        </option>
+      </select>
+    </div>
+  </div>
+</div>
+
+{{ this.seleccIdLugar }}
+
+<!-- <button id="recuperar_datos">probar</button>
+ -->
+
+<!-- <div>
+  <label for="exampleDataList" class="form-label">Seleccione municipio</label>
+  <input
+    class="form-control"
+    list="datalistOptions"
+    id="municipios"
+    [(ngModel)]="this.seleccIdLugar"
+    (ngModelChange)="this.enviarSelecc()"
+    placeholder="Seleccione municipio..."
+  />
+  <datalist id="datalistOptions">
+    <option
+      *ngFor="let municipio of muni"
+      [id]="municipio.IdMuncicipio"
+      [value]="municipio.IdMuncicipio"
+    >
+      {{ municipio.Municipio }}
+    </option>
+  </datalist>
+</div> -->
+
+<p></p>

@@ -1,0 +1,332 @@
+[
+    {
+        "IdCircunscripcion": "011",
+        "Circunscripcion": "Alava",
+        "IdProvincia": "01"
+    },
+    {
+        "IdCircunscripcion": "021",
+        "Circunscripcion": "Albacete",
+        "IdProvincia": "02"
+    },
+    {
+        "IdCircunscripcion": "031",
+        "Circunscripcion": "Alicante",
+        "IdProvincia": "03"
+    },
+    {
+        "IdCircunscripcion": "041",
+        "Circunscripcion": "Almería",
+        "IdProvincia": "04"
+    },
+    {
+        "IdCircunscripcion": "051",
+        "Circunscripcion": "Avila",
+        "IdProvincia": "05"
+    },
+    {
+        "IdCircunscripcion": "061",
+        "Circunscripcion": "Badajoz",
+        "IdProvincia": "06"
+    },
+    {
+        "IdCircunscripcion": "071",
+        "Circunscripcion": "Formentera",
+        "IdProvincia": "07"
+    },
+    {
+        "IdCircunscripcion": "072",
+        "Circunscripcion": "Ibiza",
+        "IdProvincia": "07"
+    },
+    {
+        "IdCircunscripcion": "073",
+        "Circunscripcion": "Mallorca",
+        "IdProvincia": "07"
+    },
+    {
+        "IdCircunscripcion": "074",
+        "Circunscripcion": "Menorca",
+        "IdProvincia": "07"
+    },
+    {
+        "IdCircunscripcion": "081",
+        "Circunscripcion": "Barcelona",
+        "IdProvincia": "08"
+    },
+    {
+        "IdCircunscripcion": "091",
+        "Circunscripcion": "Burgos",
+        "IdProvincia": "09"
+    },
+    {
+        "IdCircunscripcion": "101",
+        "Circunscripcion": "Cáceres",
+        "IdProvincia": "10"
+    },
+    {
+        "IdCircunscripcion": "111",
+        "Circunscripcion": "Cádiz",
+        "IdProvincia": "11"
+    },
+    {
+        "IdCircunscripcion": "121",
+        "Circunscripcion": "Castellón",
+        "IdProvincia": "12"
+    },
+    {
+        "IdCircunscripcion": "131",
+        "Circunscripcion": "Ciudad real",
+        "IdProvincia": "13"
+    },
+    {
+        "IdCircunscripcion": "141",
+        "Circunscripcion": "Córdoba",
+        "IdProvincia": "14"
+    },
+    {
+        "IdCircunscripcion": "151",
+        "Circunscripcion": "Coruña (a)",
+        "IdProvincia": "15"
+    },
+    {
+        "IdCircunscripcion": "161",
+        "Circunscripcion": "Cuenca",
+        "IdProvincia": "16"
+    },
+    {
+        "IdCircunscripcion": "171",
+        "Circunscripcion": "Girona",
+        "IdProvincia": "17"
+    },
+    {
+        "IdCircunscripcion": "181",
+        "Circunscripcion": "Granada",
+        "IdProvincia": "18"
+    },
+    {
+        "IdCircunscripcion": "191",
+        "Circunscripcion": "Guadalajara",
+        "IdProvincia": "19"
+    },
+    {
+        "IdCircunscripcion": "201",
+        "Circunscripcion": "Guipúzcoa",
+        "IdProvincia": "20"
+    },
+    {
+        "IdCircunscripcion": "211",
+        "Circunscripcion": "Huelva",
+        "IdProvincia": "21"
+    },
+    {
+        "IdCircunscripcion": "221",
+        "Circunscripcion": "Huesca",
+        "IdProvincia": "22"
+    },
+    {
+        "IdCircunscripcion": "231",
+        "Circunscripcion": "Jaén",
+        "IdProvincia": "23"
+    },
+    {
+        "IdCircunscripcion": "241",
+        "Circunscripcion": "León",
+        "IdProvincia": "24"
+    },
+    {
+        "IdCircunscripcion": "251",
+        "Circunscripcion": "Lleida",
+        "IdProvincia": "25"
+    },
+    {
+        "IdCircunscripcion": "261",
+        "Circunscripcion": "Rioja (la)",
+        "IdProvincia": "26"
+    },
+    {
+        "IdCircunscripcion": "271",
+        "Circunscripcion": "Lugo",
+        "IdProvincia": "27"
+    },
+    {
+        "IdCircunscripcion": "281",
+        "Circunscripcion": "Madrid",
+        "IdProvincia": "28"
+    },
+    {
+        "IdCircunscripcion": "291",
+        "Circunscripcion": "Málaga",
+        "IdProvincia": "29"
+    },
+    {
+        "IdCircunscripcion": "301",
+        "Circunscripcion": "Murcia Primera",
+        "IdProvincia": "30"
+    },
+    {
+        "IdCircunscripcion": "302",
+        "Circunscripcion": "Murcia Segunda",
+        "IdProvincia": "30"
+    },
+    {
+        "IdCircunscripcion": "303",
+        "Circunscripcion": "Murcia Tercera",
+        "IdProvincia": "30"
+    },
+    {
+        "IdCircunscripcion": "304",
+        "Circunscripcion": "Murcia Cuarta",
+        "IdProvincia": "30"
+    },
+    {
+        "IdCircunscripcion": "305",
+        "Circunscripcion": "Murcia Quinta",
+        "IdProvincia": "30"
+    },
+    {
+        "IdCircunscripcion": "311",
+        "Circunscripcion": "Navarra",
+        "IdProvincia": "31"
+    },
+    {
+        "IdCircunscripcion": "321",
+        "Circunscripcion": "Ourense",
+        "IdProvincia": "32"
+    },
+    {
+        "IdCircunscripcion": "331",
+        "Circunscripcion": "Occidental",
+        "IdProvincia": "33"
+    },
+    {
+        "IdCircunscripcion": "332",
+        "Circunscripcion": "Central",
+        "IdProvincia": "33"
+    },
+    {
+        "IdCircunscripcion": "333",
+        "Circunscripcion": "Oriental",
+        "IdProvincia": "33"
+    },
+    {
+        "IdCircunscripcion": "341",
+        "Circunscripcion": "Palencia",
+        "IdProvincia": "34"
+    },
+    {
+        "IdCircunscripcion": "351",
+        "Circunscripcion": "Fuerteventura",
+        "IdProvincia": "35"
+    },
+    {
+        "IdCircunscripcion": "353",
+        "Circunscripcion": "Gran Canaria",
+        "IdProvincia": "35"
+    },
+    {
+        "IdCircunscripcion": "356",
+        "Circunscripcion": "Lanzarote",
+        "IdProvincia": "35"
+    },
+    {
+        "IdCircunscripcion": "361",
+        "Circunscripcion": "Pontevedra",
+        "IdProvincia": "36"
+    },
+    {
+        "IdCircunscripcion": "371",
+        "Circunscripcion": "Salamanca",
+        "IdProvincia": "37"
+    },
+    {
+        "IdCircunscripcion": "382",
+        "Circunscripcion": "Gomera",
+        "IdProvincia": "38"
+    },
+    {
+        "IdCircunscripcion": "384",
+        "Circunscripcion": "Hierro el",
+        "IdProvincia": "38"
+    },
+    {
+        "IdCircunscripcion": "385",
+        "Circunscripcion": "Palma la",
+        "IdProvincia": "38"
+    },
+    {
+        "IdCircunscripcion": "387",
+        "Circunscripcion": "Tenerife",
+        "IdProvincia": "38"
+    },
+    {
+        "IdCircunscripcion": "391",
+        "Circunscripcion": "Cantabria",
+        "IdProvincia": "39"
+    },
+    {
+        "IdCircunscripcion": "401",
+        "Circunscripcion": "Segovia",
+        "IdProvincia": "40"
+    },
+    {
+        "IdCircunscripcion": "411",
+        "Circunscripcion": "Sevilla",
+        "IdProvincia": "41"
+    },
+    {
+        "IdCircunscripcion": "421",
+        "Circunscripcion": "Soria",
+        "IdProvincia": "42"
+    },
+    {
+        "IdCircunscripcion": "431",
+        "Circunscripcion": "Tarragona",
+        "IdProvincia": "43"
+    },
+    {
+        "IdCircunscripcion": "441",
+        "Circunscripcion": "Teruel",
+        "IdProvincia": "44"
+    },
+    {
+        "IdCircunscripcion": "451",
+        "Circunscripcion": "Toledo",
+        "IdProvincia": "45"
+    },
+    {
+        "IdCircunscripcion": "461",
+        "Circunscripcion": "Valencia",
+        "IdProvincia": "46"
+    },
+    {
+        "IdCircunscripcion": "471",
+        "Circunscripcion": "Valladolid",
+        "IdProvincia": "47"
+    },
+    {
+        "IdCircunscripcion": "481",
+        "Circunscripcion": "Vizcaya",
+        "IdProvincia": "48"
+    },
+    {
+        "IdCircunscripcion": "491",
+        "Circunscripcion": "Zamora",
+        "IdProvincia": "49"
+    },
+    {
+        "IdCircunscripcion": "501",
+        "Circunscripcion": "Zaragoza",
+        "IdProvincia": "50"
+    },
+    {
+        "IdCircunscripcion": "511",
+        "Circunscripcion": "Ceuta",
+        "IdProvincia": "51"
+    },
+    {
+        "IdCircunscripcion": "521",
+        "Circunscripcion": "Melilla",
+        "IdProvincia": "52"
+    }
+]
